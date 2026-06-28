@@ -1,0 +1,6 @@
+{
+  "name": "Velocity City",
+  "description": "A multiplayer top-down 2D car racing game with realistic drifting physics, customizable vehicles, destructible environmental elements, and dynamic weather system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
